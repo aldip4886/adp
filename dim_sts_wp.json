@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.1.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ADP"},
+{"type":"table","name":"dim_sts_wp","database":"ADP","data":
+[
+{"ID_STS_WP":"1","KET":"NE"},
+{"ID_STS_WP":"0","KET":"AKTIF"},
+{"ID_STS_WP":"2","KET":"PL\/DE"},
+{"ID_STS_WP":"-1","KET":"UNKNOWN"},
+{"ID_STS_WP":"3","KET":"AKTIVASI SEMENTARA"}
+]
+}
+]

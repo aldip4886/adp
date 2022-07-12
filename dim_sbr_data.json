@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.1.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ADP"},
+{"type":"table","name":"dim_sbr_data","database":"ADP","data":
+[
+{"ID_SBR_DATA":"1","KET":"MPN"},
+{"ID_SBR_DATA":"2","KET":"SPM"},
+{"ID_SBR_DATA":"3","KET":"SPMKP dari SIDJP"},
+{"ID_SBR_DATA":"4","KET":"VALAS"},
+{"ID_SBR_DATA":"5","KET":"MANUAL"},
+{"ID_SBR_DATA":"6","KET":"PBK KIRIM SEKANTOR"},
+{"ID_SBR_DATA":"7","KET":"PBK TERIMA SEKANTOR"},
+{"ID_SBR_DATA":"8","KET":"PBK KIRIM BEDA KANTOR"},
+{"ID_SBR_DATA":"9","KET":"PBK TERIMA BEDA KANTOR"},
+{"ID_SBR_DATA":"10","KET":"MP3 (DATA MPN 2002-2007)"}
+]
+}
+]

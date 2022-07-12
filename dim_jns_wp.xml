@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <ID_JNS_WP>-1</ID_JNS_WP>
+    <KET>UNKNOWN</KET>
+    <GROUP_JNS_WP>UNKNOWN</GROUP_JNS_WP>
+  </row>
+  <row>
+    <ID_JNS_WP>2</ID_JNS_WP>
+    <KET>BADAN</KET>
+    <GROUP_JNS_WP>BADAN</GROUP_JNS_WP>
+  </row>
+  <row>
+    <ID_JNS_WP>12</ID_JNS_WP>
+    <KET>OP NON KARYAWAN</KET>
+    <GROUP_JNS_WP>OP</GROUP_JNS_WP>
+  </row>
+  <row>
+    <ID_JNS_WP>3</ID_JNS_WP>
+    <KET>BENDAHARA</KET>
+    <GROUP_JNS_WP>BENDAHARA</GROUP_JNS_WP>
+  </row>
+  <row>
+    <ID_JNS_WP>11</ID_JNS_WP>
+    <KET>OP KARYAWAN</KET>
+    <GROUP_JNS_WP>OP</GROUP_JNS_WP>
+  </row>
+</root>

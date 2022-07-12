@@ -1,0 +1,5006 @@
+[
+ {
+   "ID_MAP_KJS": 411611295,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 295,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611238,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 238,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611209,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 209,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611390,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,Keberatan,Bandin"
+ },
+ {
+   "ID_MAP_KJS": 411611253,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 253,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411611,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411211390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411147100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411147,
+   "NM_MAP": "DTP",
+   "KD_SETOR": 100,
+   "NM_SETOR": "DTP"
+ },
+ {
+   "ID_MAP_KJS": 411126501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411624,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411624,
+   "NM_MAP": "Bunga Penagihan PTLL",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411128514,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 514,
+   "NM_SETOR": "SKPKB PPH Final atas harta bersih tambahan yang diperlakukan sebagai penghasilan"
+ },
+ {
+   "ID_MAP_KJS": 411124104,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 104,
+   "NM_SETOR": "Jasa"
+ },
+ {
+   "ID_MAP_KJS": 411122402,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 402,
+   "NM_SETOR": "Penyerahan Rokok Produksi DN"
+ },
+ {
+   "ID_MAP_KJS": 411211312,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 312,
+   "NM_SETOR": "SKPKB PPN JKP dr. Luar Pabean"
+ },
+ {
+   "ID_MAP_KJS": 411612500,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411124310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411315390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,SK Keberatan,Ban"
+ },
+ {
+   "ID_MAP_KJS": 411611275,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 275,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611203,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 203,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128405,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 405,
+   "NM_SETOR": "Hadiah Undian"
+ },
+ {
+   "ID_MAP_KJS": 411611320,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411211323,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 323,
+   "NM_SETOR": "SKPKBT PPN Membangun Sendiri"
+ },
+ {
+   "ID_MAP_KJS": 411211311,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB PPN BKP tdk berwujud"
+ },
+ {
+   "ID_MAP_KJS": 411411211,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 211,
+   "NM_SETOR": "Program Pemerintah"
+ },
+ {
+   "ID_MAP_KJS": 411411213,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 213,
+   "NM_SETOR": "Selain Hak Pengelolaan"
+ },
+ {
+   "ID_MAP_KJS": 411121311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB JHT/UTP/Pesangon"
+ },
+ {
+   "ID_MAP_KJS": 411122100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411313390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 390,
+   "NM_SETOR": "Pembayaran SK Pembetulan, Keberatan, Putusan Banding dan PK"
+ },
+ {
+   "ID_MAP_KJS": 411317100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pendapatan PBB Pertambangan untuk pertambangan panas bumi Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611276,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 276,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127103,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 103,
+   "NM_SETOR": "Royalti"
+ },
+ {
+   "ID_MAP_KJS": 411129515,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 515,
+   "NM_SETOR": "SKPKB Pasal 18(3) UU Pengampunan Pajak"
+ },
+ {
+   "ID_MAP_KJS": 411128312,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 312,
+   "NM_SETOR": "SKPKB PPh Final Ps.19"
+ },
+ {
+   "ID_MAP_KJS": 411611217,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 217,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411123100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411121300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411212900,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut PPN Impor non-Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411621100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411621,
+   "NM_MAP": "Bunga Penagihan PPh",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Bunga Penagihan PPh Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611245,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 245,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411222320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411129513,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 513,
+   "NM_SETOR": "Setor Pasal 8(3)d UU Pengampunan Pajak"
+ },
+ {
+   "ID_MAP_KJS": 411611205,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 205,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411125500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411124501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyelidikan TP"
+ },
+ {
+   "ID_MAP_KJS": 411212320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411611207,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 207,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411612,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411122920,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut PPH Psl 22 Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411222199,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411221511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411311,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411311,
+   "NM_MAP": "PBB Pedesaan",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411221300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411619310,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411314511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411611226,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 226,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611243,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 243,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411619,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411211310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411111390,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411124312,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 312,
+   "NM_SETOR": "SKPKB PPh Psl.23 Final"
+ },
+ {
+   "ID_MAP_KJS": 411126312,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 312,
+   "NM_SETOR": "PPh Pasal 25/29 Badan Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611234,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 234,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411122320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411411212,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 212,
+   "NM_SETOR": "Hibah Keluarga"
+ },
+ {
+   "ID_MAP_KJS": 411411230,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 230,
+   "NM_SETOR": "Kepentingan Sosial"
+ },
+ {
+   "ID_MAP_KJS": 411611211,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 211,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611228,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 228,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611501,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411611255,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 255,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411222,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411319510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411221500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411612501,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411622000,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": 0,
+   "NM_SETOR": "Bunga Penagihan PPN Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411128499,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 499,
+   "NM_SETOR": "PPh Final Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411122930,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut PPH Psl 22 Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411611236,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 236,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411613320,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT Pajak Penjualan BatuBar"
+ },
+ {
+   "ID_MAP_KJS": 411112200,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411611293,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 293,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411123300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411128415,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 415,
+   "NM_SETOR": "Kerjasama bentuk BOT"
+ },
+ {
+   "ID_MAP_KJS": 411611296,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 296,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411316511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411119300,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411126100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa / Angsuran"
+ },
+ {
+   "ID_MAP_KJS": 411613310,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB Pajak Penjualan BatuBara"
+ },
+ {
+   "ID_MAP_KJS": 411313510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411127000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 26 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411124321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT Dividen,Bunga,Royalti,J"
+ },
+ {
+   "ID_MAP_KJS": 411128414,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 414,
+   "NM_SETOR": "Pola Bagi Hasil"
+ },
+ {
+   "ID_MAP_KJS": 411211321,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT PPN  BKP tdk berwujud"
+ },
+ {
+   "ID_MAP_KJS": 411119,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411129390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411122311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB Final"
+ },
+ {
+   "ID_MAP_KJS": 411122310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411611268,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 268,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611310,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411312100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411312,
+   "NM_MAP": "PBB Perkotaan",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pendapatan PBB Perkotaan"
+ },
+ {
+   "ID_MAP_KJS": 411212511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411611249,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 249,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411122,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611233,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 233,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611218,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 218,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411314,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411119200,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411127390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411111100,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 100,
+   "NM_SETOR": "PPh Minyak Bumi"
+ },
+ {
+   "ID_MAP_KJS": 411317501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Panas Bumi atas penghentian penyidika"
+ },
+ {
+   "ID_MAP_KJS": 411222910,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut PPnBM Impor Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411611272,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 272,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611294,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 294,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411126199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411229510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411611512,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 512,
+   "NM_SETOR": "Bea Meterai Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611266,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 266,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411219000,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPN Lainnya Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411111,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611291,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 291,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221900,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut PPnBM Dalam Negeri non-Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411212000,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPN Impor Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411313310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 310,
+   "NM_SETOR": "PBB Perkebunan Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411221000,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPnBM dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411211324,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 324,
+   "NM_SETOR": "SKPKBT Pemungut PPN"
+ },
+ {
+   "ID_MAP_KJS": 411611215,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 215,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411119310,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411125320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411411224,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 224,
+   "NM_SETOR": "Penggabungan Usaha (Merger)"
+ },
+ {
+   "ID_MAP_KJS": 411211910,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut PPN Dalam Negeri Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411211103,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 103,
+   "NM_SETOR": "Set Kegiatan Membangun Sendiri"
+ },
+ {
+   "ID_MAP_KJS": 411611257,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 257,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611210,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 210,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611273,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 273,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411411221,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 221,
+   "NM_SETOR": "Hasil Ganti Rugi Pemerintah"
+ },
+ {
+   "ID_MAP_KJS": 411219,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611216,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 216,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411123390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411126390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411619390,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,Keberantan,Bandi"
+ },
+ {
+   "ID_MAP_KJS": 411126000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 25/29 Badan Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411128,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611199,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411221510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411128411,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 411,
+   "NM_SETOR": "Js. Pelayaran / Penerbangan LN"
+ },
+ {
+   "ID_MAP_KJS": 411131,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411131,
+   "NM_MAP": "Fiskal Luar Negeri",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411121501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411125511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penhentian Penyidik"
+ },
+ {
+   "ID_MAP_KJS": 411611213,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 213,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411313,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411123510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411125101,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 101,
+   "NM_SETOR": "Masa OP Pengusaha Tertentu"
+ },
+ {
+   "ID_MAP_KJS": 411316501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi dan Gas Bumi atas penghen"
+ },
+ {
+   "ID_MAP_KJS": 411319500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Lainnya atas pengungkapan ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411212930,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut PPN Impor Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411126300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411122910,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut PPH Psl 22 Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411125000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 25/29 OP Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411128300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP PPh Final"
+ },
+ {
+   "ID_MAP_KJS": 411127310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411315,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411316100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 100,
+   "NM_SETOR": "MIGAS"
+ },
+ {
+   "ID_MAP_KJS": 411128418,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 418,
+   "NM_SETOR": "Penghasilan Derivatif Yg Diper"
+ },
+ {
+   "ID_MAP_KJS": 411128407,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 407,
+   "NM_SETOR": "Penjualan Saham Pendiri"
+ },
+ {
+   "ID_MAP_KJS": 411411302,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 302,
+   "NM_SETOR": "SKBKBT"
+ },
+ {
+   "ID_MAP_KJS": 411121321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT JHT/UTP/Pesangon"
+ },
+ {
+   "ID_MAP_KJS": 411127105,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 105,
+   "NM_SETOR": "Laba Setelah Pajak BUT"
+ },
+ {
+   "ID_MAP_KJS": 411111200,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411221321,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT Pemungut PPN"
+ },
+ {
+   "ID_MAP_KJS": 411126310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411211501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411128510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411127101,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 101,
+   "NM_SETOR": "Dividen"
+ },
+ {
+   "ID_MAP_KJS": 411611262,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 262,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221311,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 311,
+   "NM_SETOR": "Pemungut PPn BM"
+ },
+ {
+   "ID_MAP_KJS": 411212390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411122199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411229501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411611263,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 263,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411411222,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 222,
+   "NM_SETOR": "Pembebasan Tanah"
+ },
+ {
+   "ID_MAP_KJS": 411211102,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 102,
+   "NM_SETOR": "PPN JKP dr luar daerah Pabean"
+ },
+ {
+   "ID_MAP_KJS": 411129500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411229300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411222390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411124300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411124102,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 102,
+   "NM_SETOR": "Bunga"
+ },
+ {
+   "ID_MAP_KJS": 411129300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411219500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411611258,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 258,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411125100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411219390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411128417,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 417,
+   "NM_SETOR": "Bunga Simpanan Anggot Koperasi"
+ },
+ {
+   "ID_MAP_KJS": 411121510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411611286,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 286,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611204,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 204,
+   "NM_SETOR": "Bea materai"
+ },
+ {
+   "ID_MAP_KJS": 411611251,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 251,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411229500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411229310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411212920,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut PPN Impor Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411122900,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut PPH Psl 22 non Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411611279,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 279,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411316500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Minyak Bumi dan Gas Bumi atas pengung"
+ },
+ {
+   "ID_MAP_KJS": 411314501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Perhutanan atas penghentian penyidikan tindak pidana"
+ },
+ {
+   "ID_MAP_KJS": 411128199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411128310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB PPh Final Ps.4(2)"
+ },
+ {
+   "ID_MAP_KJS": 411119320,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT PPh Migas Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411123000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 22 Impor Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611232,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 232,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411222310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411411226,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 226,
+   "NM_SETOR": "Rumah Dinas Pemerintah"
+ },
+ {
+   "ID_MAP_KJS": 411128311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB PPh Final Ps.15"
+ },
+ {
+   "ID_MAP_KJS": 411131100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411131,
+   "NM_MAP": "Fiskal Luar Negeri",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Fiskal Luar Negeri"
+ },
+ {
+   "ID_MAP_KJS": 411211104,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 104,
+   "NM_SETOR": "Set Peny. Aktiva yg menurun"
+ },
+ {
+   "ID_MAP_KJS": 411121401,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 401,
+   "NM_SETOR": "JHT/UTP/Pesangon"
+ },
+ {
+   "ID_MAP_KJS": 411611297,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 297,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411211199,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411315310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 310,
+   "NM_SETOR": "PBB Pertambangan Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411129,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411411300,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STB"
+ },
+ {
+   "ID_MAP_KJS": 411124200,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 200,
+   "NM_SETOR": "PPh Pasal 23 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411127102,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 102,
+   "NM_SETOR": "Bunga"
+ },
+ {
+   "ID_MAP_KJS": 411212501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411222501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411222300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411126200,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411124511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penhentian Penyidik"
+ },
+ {
+   "ID_MAP_KJS": 411611260,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 260,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411229511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411623000,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411623,
+   "NM_MAP": "Bunga Penagihan PPnBM",
+   "KD_SETOR": 0,
+   "NM_SETOR": "Bunga Penagihan PPnBM Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411124301,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP atas Dividen,Bunga,Royalti"
+ },
+ {
+   "ID_MAP_KJS": 411316300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP PBB MIGAS"
+ },
+ {
+   "ID_MAP_KJS": 411127,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611202,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 202,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411124500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Atas Pengungkapan Ketidakbenar"
+ },
+ {
+   "ID_MAP_KJS": 411113310,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB PPh Lainnya Dari Minyak Bumi"
+ },
+ {
+   "ID_MAP_KJS": 411122000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 22 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411313500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Perkebunan atas pengungkapan ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411316510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411613100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pajak Penjualan Batubara"
+ },
+ {
+   "ID_MAP_KJS": 411221320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411211105,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 105,
+   "NM_SETOR": "PPN Dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411317511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411128420,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 420,
+   "NM_SETOR": "WP memiliki Penghasilan Bruto Tertentu"
+ },
+ {
+   "ID_MAP_KJS": 411611247,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 247,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411123511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penhentian Penyidik"
+ },
+ {
+   "ID_MAP_KJS": 411611269,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 269,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611224,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 224,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411129514,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 514,
+   "NM_SETOR": "SKPKB Pasal 13(4)a UU Pengampunan Pajak"
+ },
+ {
+   "ID_MAP_KJS": 411128409,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 409,
+   "NM_SETOR": "Jasa Konstruksi"
+ },
+ {
+   "ID_MAP_KJS": 411611201,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 201,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128419,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 419,
+   "NM_SETOR": "Penghasilan Berupa Deviden"
+ },
+ {
+   "ID_MAP_KJS": 411612100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Penjualan Benda Materai"
+ },
+ {
+   "ID_MAP_KJS": 411122300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411222510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411219510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411319000,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PBB Lainnya Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411111320,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411211319,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 319,
+   "NM_SETOR": "PPN Dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411124101,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 101,
+   "NM_SETOR": "Dividen"
+ },
+ {
+   "ID_MAP_KJS": 411211313,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 313,
+   "NM_SETOR": "SKPKB PPN  Membangun Sendiri"
+ },
+ {
+   "ID_MAP_KJS": 411619300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411129511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411611500,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411611277,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 277,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411122510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411611219,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 219,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411125501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411212310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411624301,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411624,
+   "NM_MAP": "Bunga Penagihan PTLL",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP Atas Denda Penagihan"
+ },
+ {
+   "ID_MAP_KJS": 411121,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411315100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Non Migas"
+ },
+ {
+   "ID_MAP_KJS": 411319310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKP PBB P3 Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411124000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 23 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411129101,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 101,
+   "NM_SETOR": "Jasa Penerbangan Dalam Negeri"
+ },
+ {
+   "ID_MAP_KJS": 411111300,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411221930,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut PPnBM Dalam Negeri Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411211322,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 322,
+   "NM_SETOR": "SKPKBT PPN JKP dr Luar Pabean"
+ },
+ {
+   "ID_MAP_KJS": 411125,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411219310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411619000,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PTLL Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411123500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411122321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT Final"
+ },
+ {
+   "ID_MAP_KJS": 411611242,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 242,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411229320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411121199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411128403,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 403,
+   "NM_SETOR": "Persewaan Tanah dan Bangunan"
+ },
+ {
+   "ID_MAP_KJS": 411319300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP PBB P3 Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411124510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411612511,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411222930,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut PPnBM Impor Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411122403,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 403,
+   "NM_SETOR": "Penjualan Barang Sangat Mewah"
+ },
+ {
+   "ID_MAP_KJS": 411611239,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 239,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411319100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pendapatan PBB Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411128413,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 413,
+   "NM_SETOR": "Ph Perwakilan dengan LN"
+ },
+ {
+   "ID_MAP_KJS": 411315511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411317510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411219300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411112100,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411121100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa / Angsuran"
+ },
+ {
+   "ID_MAP_KJS": 411211,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411316390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,SK Keberatan,Banding"
+ },
+ {
+   "ID_MAP_KJS": 411125200,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411314300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 300,
+   "NM_SETOR": "Denda PBB Kehutanan"
+ },
+ {
+   "ID_MAP_KJS": 411126,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411619920,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut Pajak Tidak Langsung Lainnya Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411611227,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 227,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411612390,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,Keberatan,Bandin"
+ },
+ {
+   "ID_MAP_KJS": 411122501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan TP"
+ },
+ {
+   "ID_MAP_KJS": 411144,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411144,
+   "NM_MAP": "DTP",
+   "KD_SETOR": 100,
+   "NM_SETOR": "DTP"
+ },
+ {
+   "ID_MAP_KJS": 411211100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411124401,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 401,
+   "NM_SETOR": "PPh Psl 23 Final Bunga Simpan"
+ },
+ {
+   "ID_MAP_KJS": 411126511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411411223,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 223,
+   "NM_SETOR": "Dampak Kondisi Ekonomi Negara"
+ },
+ {
+   "ID_MAP_KJS": 411112300,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411122500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengukapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411212300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411622310,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": 310,
+   "NM_SETOR": "Bunga Penagihan PPN Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411212510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411624300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411624,
+   "NM_MAP": "Bunga Penagihan PTLL",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP Bunga Penagihan PTLL"
+ },
+ {
+   "ID_MAP_KJS": 411211511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411211101,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 101,
+   "NM_SETOR": "BKP tdk berwujud dr luar pabea"
+ },
+ {
+   "ID_MAP_KJS": 411623,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411623,
+   "NM_MAP": "Bunga Penagihan PPnBM",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411127501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411129321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT PPh psl 15 Jasa Pen DN"
+ },
+ {
+   "ID_MAP_KJS": 411619930,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut Pajak Tidak Langsung Lainnya Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411619910,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut Pajak Tidak Langsung Lainnya Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411128500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411128100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411123501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan TP"
+ },
+ {
+   "ID_MAP_KJS": 411611254,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 254,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411124199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411221100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Setoran Masa"
+ },
+ {
+   "ID_MAP_KJS": 411623301,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411623,
+   "NM_MAP": "Bunga Penagihan PPnBM",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP PPnBM"
+ },
+ {
+   "ID_MAP_KJS": 411611282,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 282,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411121310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411314100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 100,
+   "NM_SETOR": "PBB Kehutanan"
+ },
+ {
+   "ID_MAP_KJS": 411611248,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 248,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411314510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411129100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411129510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411121320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411411301,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 301,
+   "NM_SETOR": "SKBKB"
+ },
+ {
+   "ID_MAP_KJS": 411314390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 390,
+   "NM_SETOR": "Pembayaran SK Pembetulan, Keberatan, Putusan Banding dan PK"
+ },
+ {
+   "ID_MAP_KJS": 411124100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411127311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB Div,Bunga,Jasa,Laba,Roy"
+ },
+ {
+   "ID_MAP_KJS": 411124390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411317390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,SK Keberatan,Ban"
+ },
+ {
+   "ID_MAP_KJS": 411129311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB PPh psl 15 Jasa Pene DN"
+ },
+ {
+   "ID_MAP_KJS": 411221920,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut PPnBM Dalam Negeri Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411611214,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 214,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT PPh Final Ps.4(2)"
+ },
+ {
+   "ID_MAP_KJS": 411611274,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 274,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411622301,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": 301,
+   "NM_SETOR": "Bunga Penagihan PPN"
+ },
+ {
+   "ID_MAP_KJS": 411621300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411621,
+   "NM_MAP": "Bunga Penagihan PPh",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP atas Bunga"
+ },
+ {
+   "ID_MAP_KJS": 411129512,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 512,
+   "NM_SETOR": "Uang Tebusan Pengampunan Pajak"
+ },
+ {
+   "ID_MAP_KJS": 411128516,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 516,
+   "NM_SETOR": "SKPKB PPH Final atas tambahan penghasilan dari harta yang belum atau kurang diungkap Wajib Pajak yan"
+ },
+ {
+   "ID_MAP_KJS": 411621000,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411621,
+   "NM_MAP": "Bunga Penagihan PPh",
+   "KD_SETOR": 0,
+   "NM_SETOR": "Bunga Penagihan PPh Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411612310,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB Benda Materai"
+ },
+ {
+   "ID_MAP_KJS": 411613300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP Pajak Penjualan Batubara"
+ },
+ {
+   "ID_MAP_KJS": 411611285,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 285,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128416,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 416,
+   "NM_SETOR": "Revaluasi Aktiva Tetap"
+ },
+ {
+   "ID_MAP_KJS": 411315300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 300,
+   "NM_SETOR": "Denda PBB Non Migas"
+ },
+ {
+   "ID_MAP_KJS": 411229,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411122401,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 401,
+   "NM_SETOR": "Penebusan Migas Final"
+ },
+ {
+   "ID_MAP_KJS": 411125199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411313300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 300,
+   "NM_SETOR": "Denda PBB Perkebunan"
+ },
+ {
+   "ID_MAP_KJS": 411121500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengukapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411125300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411211920,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut PPN Dalam Negeri Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411317300,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP PBB PANAS BUMI"
+ },
+ {
+   "ID_MAP_KJS": 411319390,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetulan,SK Keberatan,Ban"
+ },
+ {
+   "ID_MAP_KJS": 411113300,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP PPh Lainnya Dari Minyak Bumi"
+ },
+ {
+   "ID_MAP_KJS": 411125310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411126101,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 101,
+   "NM_SETOR": "PPh Pengalihan Hak Tnh/Banguna"
+ },
+ {
+   "ID_MAP_KJS": 411619900,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut Pajak Tidak Langsung Lainnya non-Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411127199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411121210,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 210,
+   "NM_SETOR": "PPh Pasal 21 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411126320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411622100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Bunga Penagihan PPN"
+ },
+ {
+   "ID_MAP_KJS": 411122511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penhentian Penyidik"
+ },
+ {
+   "ID_MAP_KJS": 411124103,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 103,
+   "NM_SETOR": "Royalti"
+ },
+ {
+   "ID_MAP_KJS": 411611212,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 212,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT Div,Bunga,Royalti,Jasa"
+ },
+ {
+   "ID_MAP_KJS": 411313501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Perkebunan atas penghentian penyidikan tindak pidana"
+ },
+ {
+   "ID_MAP_KJS": 411222500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411611288,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 288,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411129310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411611290,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 290,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411314500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Perhutanan atas pengungkapan ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411128421,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 421,
+   "NM_SETOR": "PPh Final Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611280,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 280,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411112310,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411611511,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian"
+ },
+ {
+   "ID_MAP_KJS": 411128501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan TP"
+ },
+ {
+   "ID_MAP_KJS": 411127312,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 312,
+   "NM_SETOR": "PPh Pasal 26 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611237,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 237,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611270,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 270,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411129320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411127100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411317500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Panas Bumi atas pengungkapan ketidakb"
+ },
+ {
+   "ID_MAP_KJS": 411212500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411146100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411146,
+   "NM_MAP": "DTP",
+   "KD_SETOR": 100,
+   "NM_SETOR": "DTP"
+ },
+ {
+   "ID_MAP_KJS": 411319501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Lainnya atas penghentian penyidikan tindak pidana"
+ },
+ {
+   "ID_MAP_KJS": 411316,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411127301,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP Dividen,Bunga,Jasa,Laba"
+ },
+ {
+   "ID_MAP_KJS": 411611283,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 283,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411211200,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 200,
+   "NM_SETOR": "PPN Dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611278,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 278,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411219100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411112320,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411611287,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 287,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411124323,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 323,
+   "NM_SETOR": "SKPKBT PPh Pasal 23 Final"
+ },
+ {
+   "ID_MAP_KJS": 411621301,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411621,
+   "NM_MAP": "Bunga Penagihan PPh",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP atas Denda"
+ },
+ {
+   "ID_MAP_KJS": 411315510,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi berupa denda atau kenaikan atas pengungkapan ketidakbenaran pembayaran Pajak Bum"
+ },
+ {
+   "ID_MAP_KJS": 411611271,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 271,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611208,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 208,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611281,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 281,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128321,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 321,
+   "NM_SETOR": "SKPKBT PPh Final Ps.15"
+ },
+ {
+   "ID_MAP_KJS": 411611241,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 241,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611244,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 244,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411129301,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 301,
+   "NM_SETOR": "STP PPh psl 15 Jasa Penerb DN"
+ },
+ {
+   "ID_MAP_KJS": 411619100,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pajak Tdk Langsung Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411121402,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 402,
+   "NM_SETOR": "PNS/TNI/Pejabat Negara"
+ },
+ {
+   "ID_MAP_KJS": 411219320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411128401,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 401,
+   "NM_SETOR": "Diskonto / Bunga Obligasi"
+ },
+ {
+   "ID_MAP_KJS": 411611510,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi"
+ },
+ {
+   "ID_MAP_KJS": 411124,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411111310,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411111,
+   "NM_MAP": "PPh Minyak Bumi",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411125510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411124320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411623300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411623,
+   "NM_MAP": "Bunga Penagihan PPnBM",
+   "KD_SETOR": 300,
+   "NM_SETOR": "Bunga Penagihan PPn"
+ },
+ {
+   "ID_MAP_KJS": 411611299,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 299,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221310,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411123310,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKPKB"
+ },
+ {
+   "ID_MAP_KJS": 411113390,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "Pembayaran atas Surat Keputusan Pembetulan, Surat Keputusan Keberatan, atau Putusan Banding PPh Miny"
+ },
+ {
+   "ID_MAP_KJS": 411622,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411125390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411125,
+   "NM_MAP": "PPh Pasal 25/29 OP",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411611298,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 298,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411211510,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi Pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411211000,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPN Dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611221,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 221,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611229,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 229,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411621,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411621,
+   "NM_MAP": "Bunga Penagihan PPh",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611240,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 240,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611222,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 222,
+   "NM_SETOR": "Bea materai"
+ },
+ {
+   "ID_MAP_KJS": 411312,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411312,
+   "NM_MAP": "PBB Perkotaan",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411128412,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 412,
+   "NM_SETOR": "Jasa Penerbangan DN"
+ },
+ {
+   "ID_MAP_KJS": 411611252,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 252,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221199,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411611289,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 289,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411124311,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 311,
+   "NM_SETOR": "SKPKB atas Dividen,Bunga,Royal"
+ },
+ {
+   "ID_MAP_KJS": 411411225,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 225,
+   "NM_SETOR": "Bencana Alam"
+ },
+ {
+   "ID_MAP_KJS": 411611256,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 256,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411121200,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 200,
+   "NM_SETOR": "Tahunan"
+ },
+ {
+   "ID_MAP_KJS": 411211320,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT PPN"
+ },
+ {
+   "ID_MAP_KJS": 411121511,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Perhentian Penyidik"
+ },
+ {
+   "ID_MAP_KJS": 411613390,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": 390,
+   "NM_SETOR": "Pemby Atas SKP,SKPb,Banding"
+ },
+ {
+   "ID_MAP_KJS": 411222100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411316310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411316,
+   "NM_MAP": "PBB Pertambangan untuk Minyak dan Gas Bumi",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKP PBB MIGAS"
+ },
+ {
+   "ID_MAP_KJS": 411611206,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 206,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411128422,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 422,
+   "NM_SETOR": "PPh Final atas pengungkapan harta bersih tambahan yang dianggap sebagai penghasilan dan dikenai Paja"
+ },
+ {
+   "ID_MAP_KJS": 411128515,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 515,
+   "NM_SETOR": "SKPKB PPH Final atas tambahan penghasilan dari harta yang belum atau kurang diungkap Wajib Pajak yan"
+ },
+ {
+   "ID_MAP_KJS": 411141100,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411141,
+   "NM_MAP": "DTP",
+   "KD_SETOR": 100,
+   "NM_SETOR": "DTP Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411611292,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 292,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411221,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411121103,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 103,
+   "NM_SETOR": "PPh Pasal 21 Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411112390,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411222920,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 920,
+   "NM_SETOR": "Pemungut PPnBM Impor Bendaharawan APBD"
+ },
+ {
+   "ID_MAP_KJS": 411229390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411127500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411611261,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 261,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611259,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 259,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611267,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 267,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411211300,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411222900,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut PPnBM Impor non-Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411126500,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411113,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411219501,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan"
+ },
+ {
+   "ID_MAP_KJS": 411612300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP Benda Materai"
+ },
+ {
+   "ID_MAP_KJS": 411119100,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411611235,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 235,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411622300,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411622,
+   "NM_MAP": "Bunga Penagihan PPN",
+   "KD_SETOR": 300,
+   "NM_SETOR": "Bunga Penagihan PPN"
+ },
+ {
+   "ID_MAP_KJS": 411221910,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut PPnBM Dalam Negeri Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411611220,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 220,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411128322,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 322,
+   "NM_SETOR": "SKPKBT PPh Final Ps.19"
+ },
+ {
+   "ID_MAP_KJS": 411315501,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara atas penghentian"
+ },
+ {
+   "ID_MAP_KJS": 411313100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 100,
+   "NM_SETOR": "PBB Perkebunan"
+ },
+ {
+   "ID_MAP_KJS": 411126510,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411126,
+   "NM_MAP": "PPh Pasal 25/29 Badan",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi pengungkap"
+ },
+ {
+   "ID_MAP_KJS": 411124322,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411124,
+   "NM_MAP": "PPh Pasal 23",
+   "KD_SETOR": 322,
+   "NM_SETOR": "SKPKBT PPh Pasal 23 Final"
+ },
+ {
+   "ID_MAP_KJS": 411612510,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 510,
+   "NM_SETOR": "Sanksi Administrasi"
+ },
+ {
+   "ID_MAP_KJS": 411113320,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT PPh Lainnya Dari Minyak Bumi"
+ },
+ {
+   "ID_MAP_KJS": 411128410,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 410,
+   "NM_SETOR": "Jasa Pelayaran Dalam Negeri"
+ },
+ {
+   "ID_MAP_KJS": 411212,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411128000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Final Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411411100,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pendapatan BPHTB"
+ },
+ {
+   "ID_MAP_KJS": 411314310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411314,
+   "NM_MAP": "PBB Kehutanan",
+   "KD_SETOR": 310,
+   "NM_SETOR": "PBB Kehutanan Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411123199,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411624000,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411624,
+   "NM_MAP": "Bunga Penagihan PTLL",
+   "KD_SETOR": 0,
+   "NM_SETOR": "Bunga Penagihan PTLL Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411222511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411222,
+   "NM_MAP": "PPnBM Impor",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411611223,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 223,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411129516,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 516,
+   "NM_SETOR": "SKPKB Pasal 18(4) UU Pengampunan Pajak"
+ },
+ {
+   "ID_MAP_KJS": 411611250,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 250,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411619320,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411619,
+   "NM_MAP": "PTLL",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411219511,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411219,
+   "NM_MAP": "PPN Lainnya",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi Adm Penghentian Penyidi"
+ },
+ {
+   "ID_MAP_KJS": 411123320,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT"
+ },
+ {
+   "ID_MAP_KJS": 411611246,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 246,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411319,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411611230,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 230,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411313511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411313,
+   "NM_MAP": "PBB Perkebunan",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411411,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411127104,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 104,
+   "NM_SETOR": "Jasa"
+ },
+ {
+   "ID_MAP_KJS": 411221390,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411221,
+   "NM_MAP": "PPnBM dalam Negeri",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411211930,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 930,
+   "NM_SETOR": "Pemungut PPN Dalam Negeri Bendaharawan Dana Desa"
+ },
+ {
+   "ID_MAP_KJS": 411122390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411319511,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411319,
+   "NM_MAP": "PBB Lainnya",
+   "KD_SETOR": 511,
+   "NM_SETOR": "Sanksi denda administrasi berupa denda atas penghentian penyidikan tindak pidana di bidang perpajaka"
+ },
+ {
+   "ID_MAP_KJS": 411128404,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 404,
+   "NM_SETOR": "Bunga Deposito / Tabungan"
+ },
+ {
+   "ID_MAP_KJS": 411613,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411613,
+   "NM_MAP": "PPn Batu Bara",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411211900,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 900,
+   "NM_SETOR": "Pemungut PPN Dalam Negeri non-Bendaharawan"
+ },
+ {
+   "ID_MAP_KJS": 411128406,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 406,
+   "NM_SETOR": "Transaksi Saham dll."
+ },
+ {
+   "ID_MAP_KJS": 411128402,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 402,
+   "NM_SETOR": "Pengalihan Hak Tanah/Bangunan"
+ },
+ {
+   "ID_MAP_KJS": 411212910,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 910,
+   "NM_SETOR": "Pemungut PPN Impor Bendaharawan APBN"
+ },
+ {
+   "ID_MAP_KJS": 411611225,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 225,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411131300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411131,
+   "NM_MAP": "Fiskal Luar Negeri",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP Fiskal Luar Negeri"
+ },
+ {
+   "ID_MAP_KJS": 411129501,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411129,
+   "NM_MAP": "PPh Non Migas Lainnya",
+   "KD_SETOR": 501,
+   "NM_SETOR": "Penghentian Penyidikan TP"
+ },
+ {
+   "ID_MAP_KJS": 411212199,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411315500,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411315,
+   "NM_MAP": "PBB Pertambangan untuk Mineral dan Batubara",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pajak Bumi dan Bangunan Sektor Pertambangan untuk Pertambangan Mineral dan Batubara atas pengungkapa"
+ },
+ {
+   "ID_MAP_KJS": 411212100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411212,
+   "NM_MAP": "PPN Impor",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Masa"
+ },
+ {
+   "ID_MAP_KJS": 411612320,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 320,
+   "NM_SETOR": "SKPKBT Benda Materai"
+ },
+ {
+   "ID_MAP_KJS": 411611265,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 265,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411127300,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411127,
+   "NM_MAP": "PPh Pasal 26",
+   "KD_SETOR": 300,
+   "NM_SETOR": "STP"
+ },
+ {
+   "ID_MAP_KJS": 411119390,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411119,
+   "NM_MAP": "PPh Migas Lainnya",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411611264,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 264,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411122404,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411122,
+   "NM_MAP": "PPh Pasal 22",
+   "KD_SETOR": 404,
+   "NM_SETOR": "Ekspor Komoditas Tambang Batubara Mineral"
+ },
+ {
+   "ID_MAP_KJS": 411611284,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 284,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411211314,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 314,
+   "NM_SETOR": "SKPKB Pemungut PPN"
+ },
+ {
+   "ID_MAP_KJS": 411411400,
+   "KD_KELOMPOK_MAP": 4,
+   "NM_KELOMPOK_MAP": "D. BPHTB",
+   "KD_MAP": 411411,
+   "NM_MAP": "BPHTB",
+   "KD_SETOR": 400,
+   "NM_SETOR": "BPHTB Alasan Lain"
+ },
+ {
+   "ID_MAP_KJS": 411612199,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411612,
+   "NM_MAP": "Penjualan Benda Materai",
+   "KD_SETOR": 199,
+   "NM_SETOR": "Pembayaran Pendahuluan SKP"
+ },
+ {
+   "ID_MAP_KJS": 411112,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411112,
+   "NM_MAP": "PPh Gas Alam",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411128408,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411128,
+   "NM_MAP": "PPh Final",
+   "KD_SETOR": 408,
+   "NM_SETOR": "Penjualan Saham milik PMV"
+ },
+ {
+   "ID_MAP_KJS": 411121390,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 390,
+   "NM_SETOR": "SK Pembetul/Keberatan/Banding"
+ },
+ {
+   "ID_MAP_KJS": 411113100,
+   "KD_KELOMPOK_MAP": 6,
+   "NM_KELOMPOK_MAP": "F. PPh Migas",
+   "KD_MAP": 411113,
+   "NM_MAP": "PPh Minyak Bumi Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "PPh Lainnya Dari Minyak Bumi"
+ },
+ {
+   "ID_MAP_KJS": 411611231,
+   "KD_KELOMPOK_MAP": 5,
+   "NM_KELOMPOK_MAP": "E. Pajak Lainnya",
+   "KD_MAP": 411611,
+   "NM_MAP": "Bea Meterai",
+   "KD_SETOR": 231,
+   "NM_SETOR": "Bea Materai"
+ },
+ {
+   "ID_MAP_KJS": 411123,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411123,
+   "NM_MAP": "PPh Pasal 22 Impor",
+   "KD_SETOR": null,
+   "NM_SETOR": ""
+ },
+ {
+   "ID_MAP_KJS": 411211301,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 301,
+   "NM_SETOR": "PPN Dalam Negeri Unknown"
+ },
+ {
+   "ID_MAP_KJS": 411317310,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411317,
+   "NM_MAP": "Pertambangan untuk pertambangan panas bumi",
+   "KD_SETOR": 310,
+   "NM_SETOR": "SKP PBB PANAS BUMI"
+ },
+ {
+   "ID_MAP_KJS": 411311100,
+   "KD_KELOMPOK_MAP": 3,
+   "NM_KELOMPOK_MAP": "C. PBB",
+   "KD_MAP": 411311,
+   "NM_MAP": "PBB Pedesaan",
+   "KD_SETOR": 100,
+   "NM_SETOR": "Pendapatan PBB Pedesaan"
+ },
+ {
+   "ID_MAP_KJS": 411229100,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411229,
+   "NM_MAP": "PPnBM Lainnya",
+   "KD_SETOR": 100,
+   "NM_SETOR": "PPN / PPn BM Lainnya"
+ },
+ {
+   "ID_MAP_KJS": 411211500,
+   "KD_KELOMPOK_MAP": 2,
+   "NM_KELOMPOK_MAP": "B. PPN dan PPnBM",
+   "KD_MAP": 411211,
+   "NM_MAP": "PPN Dalam Negeri",
+   "KD_SETOR": 500,
+   "NM_SETOR": "Pengungkapan Ketidakbenaran"
+ },
+ {
+   "ID_MAP_KJS": 411121000,
+   "KD_KELOMPOK_MAP": 1,
+   "NM_KELOMPOK_MAP": "A. PPh Non Migas",
+   "KD_MAP": 411121,
+   "NM_MAP": "PPh Pasal 21",
+   "KD_SETOR": 0,
+   "NM_SETOR": "PPh Pasal 21 Unknown"
+ }
+]
